@@ -1,0 +1,38 @@
+_repo: Some-Remarks-on-the-Tragedy-of-Hamlet-Prince-of-Denmark-Written-by-Mr.-William-Shakespeare--1__14899
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Thorpe, Clarence De Witt
+    birthdate: 1887
+    gutenberg_agent_id: '39333'
+    url: http://www.gutenberg.org/2009/agents/39333
+  dubious_author:
+    agent_name: Hanmer, Thomas, Sir
+    birthdate: 1677
+    deathdate: 1746
+    gutenberg_agent_id: '36783'
+    url: http://www.gutenberg.org/2009/agents/36783
+covers:
+- cover_type: generated
+  image_path: cover.png
+description:
+- Augustan Reprint Society, publication number 09
+- '"The tradition that Hanmer wrote the essay had its highly dubious origin in a single
+  unsupported statement by Sir Henry Bunbury, made over one hundred years after the
+  work was written...."'
+gutenberg_issued: '2005-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616. Hamlet'
+- !lcsh 'Hamlet (Legendary character) -- Early works to 1800'
+- !lcsh 'Tragedy -- Early works to 1800'
+title: Some Remarks on the Tragedy of Hamlet, Prince of Denmark, Written by Mr. William
+  Shakespeare (1736)
+url: http://www.gutenberg.org/ebooks/14899
